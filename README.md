@@ -21,3 +21,7 @@ se realiza la solicitud de creación
 
 generando el siguiente codigo 
 <img width="958" height="10830" alt="code-snapshot" src="https://github.com/user-attachments/assets/a1aec8b5-d2fc-4163-b79c-30dd5fc2c6d1" />
+
+
+se cargan los datos al repositorio 
+<img width="917" height="331" alt="image" src="https://github.com/user-attachments/assets/ecd7f5d7-5614-4e03-8aa5-52bb358d30bd" />
