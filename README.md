@@ -16,3 +16,5 @@ Mejoras sugeridas:
 - Probar modelos de factorización (ALS, SVD) y tuning.
 
 
+se realiza la solicitud de creación 
+<img width="618" height="637" alt="image" src="https://github.com/user-attachments/assets/64b128ad-07fd-437f-904b-91b2fcd8d2b5" />
