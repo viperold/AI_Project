@@ -14,3 +14,5 @@ Mejoras sugeridas:
 - Añadir persistencia y carga de datos reales.
 - Implementar evaluación más completa (recall, MAP, splitting por usuarios/items).
 - Probar modelos de factorización (ALS, SVD) y tuning.
+
+

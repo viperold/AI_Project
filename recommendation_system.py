@@ -58,7 +58,7 @@ class SimpleRecommender:
 		rated_item_ids = user_ratings.index.tolist()
 
 		# construir matriz de características de items
-		item_features = self.items.set_index("item_id").loc[:, self.items.columns != "item_id"]
+		item_features = self.items.set_index("item_id").drop(columns=["item_id"], errors="ignore")
 
 		# similaridad entre todos los items
 		sim = cosine_similarity(item_features)
