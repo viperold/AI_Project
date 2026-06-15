@@ -25,3 +25,7 @@ generando el siguiente codigo
 
 se cargan los datos al repositorio 
 <img width="917" height="331" alt="image" src="https://github.com/user-attachments/assets/ecd7f5d7-5614-4e03-8aa5-52bb358d30bd" />
+
+
+se ejecutó el codigo y este es el resultado de que comprueba que funciona 
+<img width="398" height="481" alt="image" src="https://github.com/user-attachments/assets/11fb736f-7675-4e77-b0fb-7a70ec9cbdc7" />
